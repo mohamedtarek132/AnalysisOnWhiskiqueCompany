@@ -1,7 +1,9 @@
 <h1>Description:</h1>
+
 Conducted an in-depth data analysis for Whiskique Pet Supply Company to uncover valuable business insights. Utilized expertise in Pandas for data manipulation, and Matplotlib and Seaborn for data visualization to preprocess and analyze the data effectively.
 
 Technologies Used: Pandas, Matplotlib, Seaborn
+
 <h1>Key Responsibilities:</h1>
 
 Preprocessed and cleaned the dataset to ensure accuracy and reliability of the analysis.
